@@ -1,22 +1,22 @@
 # To Do App
 
 # Home Screen
-![1.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/1.jpeg)
-![2.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/2.jpeg)
+![1.jpeg](Photo/1.jpeg)
+![2.jpeg](Photo/2.jpeg)
 
 # Add Task Screen
-![3.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/3.jpeg)
+![3.jpeg](Photo/3.jpeg)
 
 # Done Task Screen
-![4.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/4.jpeg)
+![4.jpeg](Photo/4.jpeg)
 
 # Settings Screen
-![5.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/5.jpeg)
+![5.jpeg](Photo/5.jpeg)
 # Profile Screen
-![6.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/6.jpeg)
+![6.jpeg](Photo/6.jpeg)
 
 # Theme Screen
-![7.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/7.jpeg)
+![7.jpeg](Photo/7.jpeg)
 
 # About Me Screen
-![8.jpeg](../%D9%85%D9%84%D9%81%D8%A7%D8%AA/to%20do%20app%20photos/8.jpeg)
+![8.jpeg](Photo/8.jpeg)
